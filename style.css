@@ -1,0 +1,23 @@
+button{
+background-color: blue;
+color: white;
+border-radius: 3px;
+border: none;
+margin-top: 20px;
+margin-left: 110px;
+}
+input{
+    margin-left: 50px;
+}
+p{
+    text-align: center;
+}
+.container{
+    box-shadow: 0px 3px 4px rgb(0, 0, 0,0.4);
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 250px;
+    padding-top: 20px;
+  
+}
